@@ -14,7 +14,7 @@ To set the system rules, edit 'system_name/init.mcfunction'.
 To set the system draw style and egg name, edit lines 1 and 2 of 'system_name/give_set_data.mcfunction'
 
 You'll also need to edit the following files so the rest of the datapack knows about your system:
-- 'lsystem/functions/check_give.mcfunction': Copy one of the blocks of three liness and replace the names with your system's name
+- 'lsystem/functions/check_give.mcfunction': Copy one of the blocks of three lines and replace the names with your system's name
 - 'lsystem/functions/on_load.mcfunction': Add a scoreboard objective for your system named 'give_system_name'
 - 'lsystem/functions/process/background.mcfunction': Copy one of the existing lines and replace the names with your system's name
 - 'lsystem/functions/process/finalize.mcfunction': Copy one of the blocks of three lines and replace the names with your system's name
