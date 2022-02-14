@@ -1,0 +1,9 @@
+item replace entity @s hotbar.0 with slime_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:90b,DrawType:1b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"90° Turns","italic":false}]'}}
+item replace entity @s hotbar.1 with slime_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:60b,DrawType:1b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"60° Turns","italic":false}]'}}
+item replace entity @s hotbar.2 with slime_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:45b,DrawType:1b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"45° Turns","italic":false}]'}}
+item replace entity @s hotbar.3 with slime_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:06b,DrawType:1b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"Hexagonal","italic":false}]'}}
+
+item replace entity @s hotbar.5 with bat_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:90b,DrawType:0b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"90° Turns","italic":false}]'}}
+item replace entity @s hotbar.6 with bat_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:60b,DrawType:0b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"60° Turns","italic":false}]'}}
+item replace entity @s hotbar.7 with bat_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:45b,DrawType:0b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"45° Turns","italic":false}]'}}
+item replace entity @s hotbar.8 with bat_spawn_egg{EntityTag:{id:marker,data:{turtle:{MoveType:06b,DrawType:0b}},Tags:["turtle"],CustomName:'[{"text":"Turtle"}]'},display:{Name:'[{"text":"Hexagonal","italic":false}]'}}

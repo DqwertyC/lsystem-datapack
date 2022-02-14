@@ -1,0 +1,3 @@
+{
+  "values": ["turtle:on_tick", "lsystem:on_tick"]
+}
